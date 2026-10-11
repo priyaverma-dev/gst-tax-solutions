@@ -1,14 +1,4 @@
-x = "Priya and abhi are couple";
-age = "31";
-gender = "Female";
-address = "Gorakhpur";
-x = "ranideeha sikshak colony";
-y = "Gorakhpur india";
-name = "Abhinov k address";
-age = 60
-age = 60 + 1 + 45 +2 - 1
-age = '60*34*45*65/54'
-console.log(x,age,gender,name,);
+
 
 
 
@@ -969,7 +959,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.body.innerHTML = `
     <nav class="navbar">
-      <a href="#home" class="logo">TaxCare<span>.</span></a>
+      <a href="#home" class="logo">Income Tax & GST Solutions<span>.</span></a>
 
       <button class="menu-toggle"
         aria-label="Toggle navigation"
@@ -991,8 +981,8 @@ document.addEventListener("DOMContentLoaded", () => {
       <div class="hero-content reveal">
         <div class="eyebrow">
           <span class="eyebrow-dot"></span>
-          TAX & BUSINESS SOLUTIONS
-        </div>
+    Income Tax & GST Solutions
+</div>
 
         <h1>
           Tax matters made
@@ -1331,7 +1321,7 @@ document.addEventListener("DOMContentLoaded", () => {
     </section>
 
     <footer>
-      <a href="#home" class="logo">TaxCare<span>.</span></a>
+      <a href="#home" class="logo">Income Tax & GST Solutions<span>.</span></a>
       <p>GST, income tax and business support.</p>
 
       <div class="footer-links">
@@ -1342,7 +1332,7 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>
 
       <p>
-        © ${new Date().getFullYear()} TaxCare Solutions.
+        © ${new Date().getFullYear()} Income Tax & GST Solutions.
         All rights reserved.
       </p>
       <p>Service descriptions are illustrative. Actual services
@@ -1412,7 +1402,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const message = document.getElementById("message").value.trim();
 
       // Replace with your actual WhatsApp Business number.
-      const whatsappNumber = "91XXXXXXXXXX";
+      const whatsappNumber = "+919140014240";
 
       if (whatsappNumber.includes("X")) {
         alert(
